@@ -34,7 +34,7 @@ from chatui import assets, chat_client
 
 _LOGGER = logging.getLogger(__name__)
 PATH = "/"
-TITLE = "Hybrid RAG: Chat UI"
+TITLE = "NVidia AI Workbench on Dell Precision Workstation: demo"
 OUTPUT_TOKENS = 250
 MAX_DOCS = 5
 
